@@ -1,34 +1,32 @@
-# title
+# README Generator
  ![Github license](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
 ## Description
-hdiosnkihlo
+A tool for devs to make creating a README easy and fast.
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributors](#contributors)
-- [Tests](#tests)
 - [License](#license)
 - [Questions](#questions)
 
 ## Installation
-hsnlohnflnl
+Open Terminal  
+Install NPM (npm i)  
+Enter node index.js
 
 ## Usage
-sdjiohndl
+After "Installation" steps, answer prompts
 
 ## Contributors
-shniodn
-
-## Tests
-sioenes
+Stephanie Jauch
 
  ## License
 MIT License
 
 ## Questions
 
-If you have any questions you can email me at shniodn.
+If you have any questions you can email me at sjauch21@gmail.com.
 
-If you want to see more of my work you can visit my [GitHub](https://github.com/shniolhnlo)
+If you want to see more of my work you can visit my [GitHub](https://github.com/SKJauch)
