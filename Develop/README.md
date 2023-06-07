@@ -21,6 +21,7 @@ After "Installation" steps, answer prompts
 
 ## Contributors
 Stephanie Jauch
+Tutor-Meg Meyers (TA)
 
  ## License
 MIT License
@@ -32,4 +33,5 @@ If you have any questions you can email me at sjauch21@gmail.com.
 If you want to see more of my work you can visit my [GitHub](https://github.com/SKJauch)
 
 Video-https://drive.google.com/file/d/1u-KeRd_6OsQRffrRePQrid7bg1MCVgpC/view
-Gitgub Repo-git@github.com:SKJauch/readme_inquirer.git
+Gitgub Repo-https://github.com/SKJauch/readme_inquirer
+
